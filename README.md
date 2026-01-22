@@ -31,7 +31,7 @@
 
 ## 🌐 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/yashwant-singh-40856b307
-- 🧑‍💻 GitHub: https://github.com/yashrajpurohit7
+- 🧑‍💻 twitter(x): https://x.com/yash_purohit7
 - 📧 Email: yashpurohit866@gmail.com
   
 
