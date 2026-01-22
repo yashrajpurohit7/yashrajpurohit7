@@ -27,20 +27,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajpurohit7&theme=tokyonight" />
 </p>
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/yashrajpurohit7">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=yashrajpurohit7&show_icons=true&theme=radical" />
-  </a>
-
   <!-- Top Languages Card -->
-  <a href="https://github.com/yashrajpurohit7">
+<a href="https://github.com/yashrajpurohit7">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajpurohit7&layout=compact&langs_count=10&theme=radical" />
   </a>
 </p>
-
-<!-- Optional: GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajpurohit7&them
+ 
 
 ---
 
