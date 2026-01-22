@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashwant Singh</h1>
-<h3 align="center">BTech CSE Student | Aspiring Software & AI Engineer</h3>
+<h3 align="center">BTech CSE Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashrajpurohit7&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/yashrajpurohit7">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Future+Software+Engineer;Open+Source+Contributor;Learning+AI+%26+Backend;Hackathon+Enthusiast&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Engineer;Open+Source+Contributor;Competietive+Programmer&center=true&width=500&height=45">
   </a>
 </p>
 
