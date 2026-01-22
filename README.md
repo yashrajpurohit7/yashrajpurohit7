@@ -1,62 +1,64 @@
 <h1 align="center">Hi 👋, I'm Yashwant Singh</h1>
-<h3 align="center">BTech CSE Student | Open Source Learner | Aspiring AI Engineer</h3>
+<h3 align="center">BTech CSE Student | Aspiring Software & AI Engineer</h3>
 
 <p align="center">
-  🚀 Building real-world projects  
-  🌱 Learning DSA, Backend & AI  
-  🎯 Goal: Strong internships, open source & impactful products  
+  <img src="https://komarev.com/ghpvc/?username=yashrajpurohit7&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/yashrajpurohit7">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Future+Software+Engineer;Open+Source+Contributor;Learning+AI+%26+Backend;Hackathon+Enthusiast&center=true&width=500&height=45">
+  </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 - 🎓 2nd Year BTech CSE Student  
-- 🛠 Working on projects like **ARTJIYA** and developer tools  
-- 🧠 Currently learning **Data Structures, Node.js, Git & Open Source**  
-- 💡 Interested in **Hackathons, Problem Solving, Product Building**  
-- ⚡ Believe in: *Consistency beats motivation*
+- 💻 Building projects like **ARTJIYA**, AI tools, Web apps  
+- 🌱 Currently learning **DSA, Backend, Open Source**  
+- 🎯 Goal: Crack **internships, hackathons, GSoC-level programs**  
+- ⚡ Low-end PC warrior (4GB RAM but high ambition)
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,python,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,mysql" />
 </p>
-
----
-
-## 📌 Featured Projects (Improving Actively)
-| Project | Description | Link |
-|--------|--------------|------|
-| 🎨 ARTJIYA | Platform for artists to showcase and grow | Coming soon |
-| 🤖 AI Emotion Assistant | Emotion-aware chat assistant | Coming soon |
-| 🌐 Open Source | Contributions to real-world repos | Coming soon |
-
-(These will turn into strong links as you progress)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashrajpurohit7&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajpurohit7&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashrajpurohit7&show_icons=true&theme=tokyonight" />
 </p>
 
----
-
-## 🧠 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/yashwantsingh7?theme=dark&font=Baloo&ext=contest" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajpurohit7&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-- 💼 LinkedIn: (add your LinkedIn link here)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashrajpurohit7&theme=darkhub" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+- 💼 LinkedIn: (add your link here)
 - 🧑‍💻 GitHub: https://github.com/yashrajpurohit7
+- 📧 Email: (add if you want)
+- 🌍 Portfolio: (later we’ll build one)
 
 ---
 
-<p align="center">
-  ⭐ If you like my work, consider following!
-</p>
+## 🔥 Featured Projects
+- 🎨 ARTJIYA – Art Gallery Platform  
+- 🤖 AI Emotion Assistant  
+- 🛒 E-commerce frontend  
+- 🎮 2D Game "Dhruvika"  
+
+> More amazing projects coming soon...
