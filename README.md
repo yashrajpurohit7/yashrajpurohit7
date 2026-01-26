@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Engineer;Open+Source+Contributor;Competitive+Programmer&center=true&width=500&height=45">
   </a>
 </p>
-
+https://docs.google.com/document/d/1IbOHtC-BbKbRd_3a6rB_8158IF9iR7Pi/edit?usp=sharing&ouid=104823481179142905076&rtpof=true&sd=tru
 ## 🛠️ Skills
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,mysql" />
