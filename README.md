@@ -10,7 +10,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Engineer;Open+Source+Contributor;Competitive+Programmer&center=true&width=500&height=45">
   </a>
 </p>
-https://docs.google.com/document/d/1IbOHtC-BbKbRd_3a6rB_8158IF9iR7Pi/edit?usp=sharing&ouid=104823481179142905076&rtpof=true&sd=tru
 ## 🛠️ Skills
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,mysql" />
@@ -33,7 +32,8 @@ https://docs.google.com/document/d/1IbOHtC-BbKbRd_3a6rB_8158IF9iR7Pi/edit?usp=sh
   </a>
 </p>
  
-
+badges 
+<div><a href="https://cloud.layer5.io/user/3880476c-c33d-4463-9436-8988d61bcdfb?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
 ---
 
 ## 🌐 Connect with Me
