@@ -16,22 +16,7 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashrajpurohit7&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajpurohit7&theme=tokyonight" />
-</p>
-<p align="center">
-  <!-- Top Languages Card -->
-<a href="https://github.com/yashrajpurohit7">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajpurohit7&layout=compact&langs_count=10&theme=radical" />
-  </a>
-</p>
- 
+   <iframe src="https://assets.pinterest.com/ext/embed.html?id=806003664587681291" height="354" width="450" frameborder="0" scrolling="no" ></iframe>
 BADGES
 <div><a href="https://cloud.layer5.io/user/3880476c-c33d-4463-9436-8988d61bcdfb?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a></div>
 
