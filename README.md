@@ -15,8 +15,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,mysql" />
 </p>
 
----
-   <iframe src="https://assets.pinterest.com/ext/embed.html?id=806003664587681291" height="354" width="450" frameborder="0" scrolling="no" ></iframe>
+
 BADGES
 <div><a href="https://cloud.layer5.io/user/3880476c-c33d-4463-9436-8988d61bcdfb?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a></div>
 
