@@ -12,7 +12,7 @@
 </p>
 ## 🛠️ Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=c++,html,css,js,react,nodejs,python,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,mysql" />
 </p>
 
 
