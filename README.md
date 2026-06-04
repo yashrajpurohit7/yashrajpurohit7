@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Engineer;Open+Source+Contributor;Competitive+Programmer&center=true&width=500&height=45">
   </a>
 </p>
-## 🛠️ Skills
+🛠️ Skills
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,aws,cpp,postman,vscode,mongodb,postgresql,mysql" />
 </p>
@@ -19,7 +19,7 @@
 BADGES
 <div><a href="https://cloud.layer5.io/user/3880476c-c33d-4463-9436-8988d61bcdfb?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a></div>
 
-## 🌐 Connect with Me
+🌐 Connect with Me
 - company - https://www.linkedin.com/company/artjiya
 - 💼 LinkedIn: https://www.linkedin.com/in/yashwant-singh-40856b307
 - 🧑‍💻 twitter(x): https://x.com/yash_purohit7
@@ -27,4 +27,4 @@ BADGES
       
 ---
 
-## 🔥 Leetcode: https://leetcode.com/u/yashwantsingh7
+🔥 Leetcode: https://leetcode.com/u/yashwantsingh7
