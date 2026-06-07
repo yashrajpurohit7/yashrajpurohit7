@@ -78,17 +78,7 @@ Ask me    : React · Node.js · TypeScript · Open Source
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,postgresql,mongodb,python,cpp,tailwind,git,github,vscode,postman&perline=7" />
 </p>
-
----
-
-### GitHub trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashrajpurohit7&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies"/>
-</p>
-
----
-
+ 
 ### GitHub stats
 
 <p align="center">
