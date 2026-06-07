@@ -80,23 +80,34 @@ Ask me    : React · Node.js · TypeScript · Open Source
 </p>
  
 ### GitHub stats
-
-<p align="center">
+ <p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=yashrajpurohit7&theme=tokyonight&hide_border=true&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9&sideLabels=6E40C9" alt="Streak"/>
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashrajpurohit7&theme=tokyonight" alt="Stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashrajpurohit7&theme=tokyonight" alt="Top languages"/>
 </p>
-
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashrajpurohit7&theme=tokyonight" alt="Repos per language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashrajpurohit7&theme=tokyonight" alt="Most commit language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashrajpurohit7&theme=tokyonight&utcOffset=5.5" alt="Productive time"/>
+</p>
 <p align="center">
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashrajpurohit7&theme=tokyonight" alt="Profile details"/>
 </p>
 
+
 ---
 
 ### Contribution activity
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajpurohit7&theme=tokyo-night&hide_border=true&area=true&area_color=6E40C9" alt="Activity graph"/>
+ <p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajpurohit7&theme=tokyo-night&hide_border=true&area=true&area_color=6E40C9&line=6E40C9&point=ffffff" alt="Activity graph"/>
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashrajpurohit7/yashrajpurohit7/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashrajpurohit7/yashrajpurohit7/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/yashrajpurohit7/yashrajpurohit7/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
+
 
 ---
 
