@@ -1,41 +1,74 @@
-<h1 align="center">Yashwant Singh</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yashwant%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20GSSoC%20%2726%20Contributor%20%7C%20Building%20ARTJIYA&descAlignY=58&descSize=16" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;GSSoC+%2726+Open+Source+Contributor;Building+ARTJIYA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;GSSoC+%2726+Open+Source+Contributor;Building+ARTJIYA+%F0%9F%8E%A8;React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yashwantsingh7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://x.com/yash_purohit7"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"/></a>&nbsp;
-  <a href="https://leetcode.com/u/yashwantsingh7"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>&nbsp;
-  <a href="mailto:yashpurohit866@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=yashrajpurohit7&color=6E40C9&style=flat-square&label=Views" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/yashwantsingh7">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://x.com/yash_purohit7">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/yashwantsingh7">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>&nbsp;
+  <a href="mailto:yashpurohit866@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=yashrajpurohit7&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
----
+<br/>
 
-Second-year BTech CSE student at Parul University · Co-founder & Full Stack Developer at [ARTJIYA](https://www.linkedin.com/company/artjiya) · GSSoC '26 Contributor
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
+
+### About me
+
+Second-year BTech CSE student at **Parul University**  
+Co-founder & Full Stack Developer at **[ARTJIYA](https://www.linkedin.com/company/artjiya)**  
+GSSoC '26 Contributor — 2 PRs merged · contributing to [termui.io](https://termui.io)
+
+```yaml
+Location  : Vadodara, Gujarat, India
+Building  : ARTJIYA — community platform for artists
+Learning  : Advanced DSA · System Design · Open Source
+Ask me    : React · Node.js · TypeScript · Open Source
+```
+
+<br clear="right"/>
 
 ---
 
 ### What I'm building
 
-**[ARTJIYA](https://www.linkedin.com/company/artjiya)** — A community platform for artists with real opportunities through art contests and courses by verified creators.
+<a href="https://www.linkedin.com/company/artjiya">
+  <img src="https://img.shields.io/badge/🎨_ARTJIYA-Community_Platform_for_Artists-6E40C9?style=for-the-badge" alt="ARTJIYA"/>
+</a>
 
-`React` `TypeScript` `Node.js` `Express` `PostgreSQL (Neon)` `Cloudinary` `Tailwind CSS`
+> A full-stack platform connecting artists with real opportunities — art contests, courses by verified creators, and a community built for growth.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 ---
 
 ### Open source
 
 | Program | Project | Status |
-|---|---|---|
-| GSSoC '26 | [termui.io](https://termui.io) — TypeScript terminal UI framework | 2 PRs merged · ongoing |
-| OSCG '26 | HealConnect | 2 PRs merged · completed |
-| Layer5 | Meshery | First Design badge |
+|:---|:---|:---|
+| 🌟 **GSSoC '26** | [termui.io](https://termui.io) — TypeScript terminal UI framework | 2 PRs merged · ongoing |
+| ✅ **OSCG '26** | HealConnect | 2 PRs merged · completed |
+| 🏅 **Layer5** | Meshery | First Design badge |
 
 <a href="https://cloud.layer5.io/user/3880476c-c33d-4463-9436-8988d61bcdfb?tab=badges&badge=first-design">
-  <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="100" alt="First Design Badge"/>
+  <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="90" alt="First Design Badge"/>
 </a>
 
 ---
@@ -43,7 +76,15 @@ Second-year BTech CSE student at Parul University · Co-founder & Full Stack Dev
 ### Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,postgresql,mongodb,python,cpp,tailwind,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,postgresql,mongodb,python,cpp,tailwind,git,github,vscode,postman&perline=7" />
+</p>
+
+---
+
+### GitHub trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashrajpurohit7&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies"/>
 </p>
 
 ---
@@ -51,10 +92,22 @@ Second-year BTech CSE student at Parul University · Co-founder & Full Stack Dev
 ### GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yashrajpurohit7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajpurohit7&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashrajpurohit7&theme=tokyonight" alt="Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashrajpurohit7&theme=tokyonight" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yashrajpurohit7&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashrajpurohit7&theme=tokyonight" alt="Profile details"/>
 </p>
+
+---
+
+### Contribution activity
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajpurohit7&theme=tokyo-night&hide_border=true&area=true&area_color=6E40C9" alt="Activity graph"/>
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
