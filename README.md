@@ -101,10 +101,6 @@ Ask me    : React · Node.js · TypeScript · Open Source
 ### Contribution activity
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/yashrajpurohit7/yashrajpurohit7/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashrajpurohit7/yashrajpurohit7/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashrajpurohit7/yashrajpurohit7/output/github-contribution-grid-snake.svg">
