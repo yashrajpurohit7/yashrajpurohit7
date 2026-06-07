@@ -84,16 +84,26 @@ Ask me    : React · Node.js · TypeScript · Open Source
 ### GitHub stats
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=yashrajpurohit7&theme=tokyonight&hide_border=true&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9&sideLabels=6E40C9" alt="Streak"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashrajpurohit7&theme=tokyonight" alt="Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=yashrajpurohit7&theme=tokyonight&hide_border=true&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9&sideLabels=6E40C9&dates=888888" alt="Streak stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashrajpurohit7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub stats"/>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajpurohit7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top languages"/>
 </p>
 
 ---
 
 ### Contribution activity
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajpurohit7&theme=tokyo-night&hide_border=true&area=true&area_color=6E40C9&line=6E40C9&point=ffffff&cache_seconds=1800" alt="Activity graph"/>
+</p>
+
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/yashrajpurohit7/yashrajpurohit7/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
 </p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashrajpurohit7/yashrajpurohit7/output/github-contribution-grid-snake-dark.svg">
