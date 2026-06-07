@@ -81,14 +81,6 @@ Ask me    : React · Node.js · TypeScript · Open Source
 
 ---
 
-### GitHub trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashrajpurohit7&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies"/>
-</p>
-
----
-
 ### GitHub stats
 
 <p align="center">
